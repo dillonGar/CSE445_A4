@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotel>												<!--Error 1 where Hotels is Hotel-->
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>DoubleTree</Name>                    <!--Missing Phone Number-->
+		<Address>
+			<Number>10220</Number>
+			<Street>North Metro Parkway</Street>
+			<State>AZ</State>
+			<Zip>85051</Zip>                       <!--Missing Required Element City-->
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Hyatt Regency</Name>
+		<Phone>602-252-1234</Phone>
+		<Phone>602-440-3166</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>122</Number>
+			<Street>N 2nd St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>                       <!--Missing the enclosed Address Tag-->
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Little America Hotel</Name>          <!--Doubled up Name tags error-->
+		<Name>Little America</Name>
+		<Phone>928-779-7900</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>2515</Number>
+			<Street>E Butler Ave</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>The McCormick</Name>
+		<Phone>800-535-1865</Phone>
+		<Phone>480-951-2550</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7421</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Caesars Palace</Name>
+		<Phone>866-227-5938</Phone>
+		<Phone>702-893-4800</Phone>
+		<Address NearestAirport="Las Vegas Airport">
+			<Number>3570</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Hampton Inn</Name>
+		<Phone>702-360-5700</Phone>
+		<Address>
+			<Number>7100</Number>
+			<Street>Cascade Valley Court</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89128</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.3">
+		<Name>Embassy Suites</Name>
+		<Phone>714-241-3800</Phone>
+		<Address NearestAirport="John Wayne Airport">
+			<Number>1325</Number>
+			<Street>E Dyer Road</Street>
+			<City>Santa Ana</City>
+			<State>CA</State>
+			<Zip>92705</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>JW Marriot</Name>
+		<Phone>714-294-7801</Phone>
+		<Address NearestAirport="John Wayne">
+			<Number>1775</Number>
+			<Street>S Clementine Street</Street>
+			<City>Anaheim</City>
+			<State>CA</State>
+			<Zip>92802</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.7">
+		<Name>Bellagio</Name>
+		<Phone>888-987-6667</Phone>
+		<Phone>702-693-8112</Phone>
+		<Address NearestAirport="Las Vegas Airport">
+			<Number>3600</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<city>Las Vegas</city>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
