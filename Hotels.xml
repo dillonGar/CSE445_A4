@@ -4,7 +4,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -29,7 +29,7 @@
 		<Name>Hyatt Regency</Name>
 		<Phone>602-252-1234</Phone>
 		<Phone>602-440-3166</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>122</Number>
 			<Street>N 2nd St</Street>
 			<City>Phoenix</City>
@@ -41,7 +41,7 @@
 	<Hotel Rating="4.5">
 		<Name>Little America Hotel</Name>
 		<Phone>928-779-7900</Phone>
-		<Address NearestAirport="Flagstaff Pulliam Airport">
+		<Address NearstAirport="Flagstaff Pulliam Airport">
 			<Number>2515</Number>
 			<Street>E Butler Ave</Street>
 			<City>Flagstaff</City>
@@ -54,7 +54,7 @@
 		<Name>The McCormick</Name>
 		<Phone>800-535-1865</Phone>
 		<Phone>480-951-2550</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>7421</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
@@ -67,7 +67,7 @@
 		<Name>Caesars Palace</Name>
 		<Phone>866-227-5938</Phone>
 		<Phone>702-893-4800</Phone>
-		<Address NearestAirport="Las Vegas Airport">
+		<Address NearstAirport="Las Vegas Airport">
 			<Number>3570</Number>
 			<Street>S Las Vegas Blvd</Street>
 			<City>Las Vegas</City>
@@ -91,7 +91,7 @@
 	<Hotel Rating="3.3">
 		<Name>Embassy Suites</Name>
 		<Phone>714-241-3800</Phone>
-		<Address NearestAirport="John Wayne Airport">
+		<Address NearstAirport="John Wayne Airport">
 			<Number>1325</Number>
 			<Street>E Dyer Road</Street>
 			<City>Santa Ana</City>
@@ -103,7 +103,7 @@
 	<Hotel Rating="4.1">
 		<Name>JW Marriot</Name>
 		<Phone>714-294-7801</Phone>
-		<Address NearestAirport="John Wayne">
+		<Address NearstAirport="John Wayne">
 			<Number>1775</Number>
 			<Street>S Clementine Street</Street>
 			<City>Anaheim</City>
@@ -116,7 +116,7 @@
 		<Name>Bellagio</Name>
 		<Phone>888-987-6667</Phone>
 		<Phone>702-693-8112</Phone>
-		<Address NearestAirport="Las Vegas Airport">
+		<Address NearstAirport="Las Vegas Airport">
 			<Number>3600</Number>
 			<Street>S Las Vegas Blvd</Street>
 			<City>Las Vegas</City>
