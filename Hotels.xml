@@ -119,7 +119,7 @@
 		<Address NearstAirport="Las Vegas Airport">
 			<Number>3600</Number>
 			<Street>S Las Vegas Blvd</Street>
-			<city>Las Vegas</city>
+			<City>Las Vegas</City>
 			<State>NV</State>
 			<Zip>89109</Zip>
 		</Address>
