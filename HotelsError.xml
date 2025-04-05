@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel>												<!--Error 1 where Hotels is Hotel-->
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.w3.org/2001/XMLSchema https://dillongar.github.io/CSE445_A4/Hotels.xsd">											<!--Error 1 where Hotels is Hotel-->
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
